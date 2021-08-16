@@ -1,4 +1,4 @@
-https://www.codechef.com/START4C/problems/LAZYCHF/
+//https://www.codechef.com/START4C/problems/LAZYCHF/
 #include <bits/stdc++.h>
 using namespace std;
 void solve(){
